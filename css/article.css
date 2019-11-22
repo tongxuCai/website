@@ -4,10 +4,46 @@
     padding-bottom: 2rem;
     width:100%;
     padding-right:10rem;
-    padding-left:2rem;
+    /* padding-left:2rem; */
 }
 
 .articlelink{
     width:70%;
     padding-left:2rem;
+}
+
+.photolink{
+    padding-bottom:0.3rem;
+    padding-left:1.2rem;
+}
+
+.title{
+    padding-bottom: 0.4rem;
+    padding-left:1.2rem;
+}
+
+.mb-0{
+    padding-left:2.5rem;
+}
+
+.mb-5{
+    padding-left:3rem;
+}
+
+.d-lg-none{
+    padding-left:3rem;
+}
+
+.social-icons{
+    padding-left:2.5rem;
+}
+
+.story-body{
+    padding-left:3rem;
+    padding-right: 7rem;
+}
+
+.fa-ul{
+    padding-left:0.4rem;
+    padding-top: 2rem;
 }
